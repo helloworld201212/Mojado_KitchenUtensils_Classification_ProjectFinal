@@ -48,7 +48,8 @@ The **History Screen** records everything the user has done inside the app.
 - Items previously scanned  
 - Items added to the collection  
 - Past results with similarity percentage  
-- Previously viewed recipes  
+- Previously viewed recipes
+- Download the history you wanted
 
 **Purpose:**  
 - Allows the user to track past activity  
@@ -93,7 +94,8 @@ It acts as a personal library where users can:
 - Browse saved items  
 - Open item details  
 - Access recipes  
-- Manage the content they added  
+- Manage the content they added
+- Show Missing and Owned
 
 **Screenshot:**  
 ![Collection Screen](Collection.jpg)
@@ -105,12 +107,14 @@ It acts as a personal library where users can:
 Analytics provide insights into user interactions with the app, helping monitor usage patterns, track progress, and identify popular items.
 
 **Features:**
+Show Most scanned Product, Avg Accuracy, Total Scans and Product Distribution
 - **Scan Progress:** Shows the percentage of items scanned by the user  
 - **Image Picker Usage:** Tracks how often users pick images to scan recipes  
 - **Overall Completion:** Displays the percentage of total recipes added to the collection  
 - **Top Item:** Highlights the most scanned or most used recipe/item  
 - **Trends:** Provides insights into popular items across all users  
-- **Completion Stats:** Visual representation of personal vs overall collection completion  
+- **Completion Stats:** Visual representation of personal vs overall collection completion
+  
 
 **Screenshot:**  
 ![Analytics Screen](Statistics.jpg)
@@ -125,7 +129,8 @@ The **Recipe Collection** allows users to save their favorite recipes or scanned
 - View saved recipes or scanned items  
 - Remove recipes from the collection  
 - Quick access to previously saved items  
-- Organize recipes by category, date, or usage frequency  
+- Organize recipes by category, date, or usage frequency
+- Shows recipe can make 
 
 **Screenshot:**  
 ![Recipe Collection Screen](Recipe_Collection.jpg)
