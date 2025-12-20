@@ -159,8 +159,9 @@ Feel free to **connect with me** or check out my projects on GitHub, LinkedIn, o
 
 **App Demo:**  
 
-![Kitchen Utensils Demo](demo.png)  
-![Kitchen Utensils Demo 2](https://media.tenor.com/bwqeN.gif)
+![Kitchen Utensils Demo](demo.png) 
+![Chef Kiss Demo](https://media.tenor.com/view/chef-kiss-emoji-gif-20081343.gif)
+
 
 ---
 # 🌐 Let's Connect
