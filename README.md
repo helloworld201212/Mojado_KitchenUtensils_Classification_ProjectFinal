@@ -159,7 +159,7 @@ Feel free to **connect with me** or check out my projects on GitHub, LinkedIn, o
 
 **App Demo:**  
 
-![Kitchen Utensils Demo](A_GIF_titled_"App_Demo:"_in_bold_yellow_text_at_th.png)  
+![Kitchen Utensils Demo](demo.png)  
 ![Kitchen Utensils Demo 2](https://media.tenor.com/bwqeN.gif)
 
 ---
