@@ -157,11 +157,10 @@ Your feedback, contributions, and ideas are always welcome to make this app even
 
 Feel free to **connect with me** or check out my projects on GitHub, LinkedIn, or email!
 
-**App Demo:**  
+
 
 ![Kitchen Utensils Demo](demo.png) 
-![Chef Kiss Demo](https://media.tenor.com/view/chef-kiss-emoji-gif-20081343.gif)
-
+![Chef Kiss Demo](https://media.tenor.com/wV7V_TuT54AAAAAC/chef-kiss.gif)
 
 ---
 # 🌐 Let's Connect
