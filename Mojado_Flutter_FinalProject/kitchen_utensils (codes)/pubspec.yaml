@@ -1,0 +1,68 @@
+name: MOJADO_FLUTTER_PROJECT
+description: A new Flutter project
+publish_to: 'none' # Remove this if you plan to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 📷 Camera plugin (latest major stable)
+  camera: ^0.11.3
+
+  # 📊 Chart library
+  fl_chart: 0.68.0
+
+  # 🔐 Permission manager
+  permission_handler: ^12.0.1
+
+  # 🤖 TensorFlow Lite Flutter binding
+  tflite_flutter: ^0.12.1
+  
+  # 🖼️ Image processing library
+  image: ^4.2.0
+
+  # Other Flutter dependencies
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
+  firebase_database: ^12.1.0
+  image_picker: ^1.1.2
+  firebase_storage: ^13.0.0 # Added for Rich Scan History
+  path_provider: ^2.1.5
+  
+  # 🌙 New Feature Dependencies
+  shared_preferences: ^2.2.2  # For dark mode & favorites persistence
+  csv: ^6.0.0                 # For CSV export
+  pdf: ^3.11.1                # For PDF generation
+  share_plus: ^10.1.2         # For sharing functionality
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # 🧹 Linting rules for clean code
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/model/labels.txt
+    - assets/model/model_unquant.tflite
+    - assets/Colander.jpg
+    - assets/Grater.jpg
+    - assets/Kitchen Scissors.jpg
+    - assets/Ladle.jpg
+    - assets/Peeler.jpg
+    - assets/Rolling Pin.jpg
+    - assets/Slotted Spoon.jpg
+    - assets/Spatula.jpg
+    - assets/Tongs.jpg
+    - assets/Whisk.jpg

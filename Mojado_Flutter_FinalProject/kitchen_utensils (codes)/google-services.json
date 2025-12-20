@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "843672217246",
+    "firebase_url": "https://mojado-flutter-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mojadokitchenutensils",
+    "storage_bucket": "mojadokitchenutensils.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843672217246:android:ba18a10903dbe1baff3d8f",
+        "android_client_info": {
+          "package_name": "com.example.mojado_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApWgV97Fg28kXG0-d0x-8xNMvZCNwnd_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+{
+    "firestore": {
+        "database": "(default)",
+        "location": "asia-southeast1",
+        "rules": "firestore.rules",
+        "indexes": "firestore.indexes.json"
+    },
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "mojadokitchenutensils",
+                    "appId": "1:430783171502:android:42aa2243fd1345ff17963f",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "mojadokitchenutensils",
+                    "configurations": {
+                        "android": "1:430783171502:android:42aa2243fd1345ff17963f",
+                        "ios": "1:430783171502:ios:3485e94c5423fdb617963f",
+                        "macos": "1:430783171502:ios:3485e94c5423fdb617963f",
+                        "web": "1:430783171502:web:4e1a665bb9e8800e17963f",
+                        "windows": "1:430783171502:web:8ed41bb6fbf5773e17963f"
+                    }
+                }
+            }
+        }
+    }
+}
