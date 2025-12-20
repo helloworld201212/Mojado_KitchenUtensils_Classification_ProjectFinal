@@ -15,7 +15,8 @@ This Flutter app is a **Kitchen Utensils Identification System** designed to hel
 - Utensil name  
 - Accuracy percentage  
 - Possible similar items  
-- Related recipes  
+- Related recipes
+- Light mode or Dark Mode
 
 The main goal of this project is to assist users, beginners, students, and culinary learners in identifying kitchen utensils accurately and quickly, especially when they are unfamiliar with certain tools. This can help in **cooking, learning, organizing, and understanding different utensils used in the kitchen**.
 
