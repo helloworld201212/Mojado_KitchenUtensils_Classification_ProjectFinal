@@ -62,7 +62,7 @@ The **History Screen** records everything the user has done inside the app.
 
 ## 🔍 Scanner Screen
 **Full Description:**  
-The **Scanner Screen** uses your Teachable Machine model to determine the **confidence level** of scanned items.
+The **Scanner Screen** uses your Teachable Machine model to determine the **confidence level** of scanned items. Additional for the Image Picker that can choose any photo that can determine the **confidence level** and the similarities of scanned items.
 
 **The system can show:**
 - **100% Match** (exact class identified)  
