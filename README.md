@@ -138,6 +138,29 @@ The **Recipe Collection** allows users to save their favorite recipes or scanned
 
 ---
 
+## 💡 About the App
+**Kitchen Utensils Identification System** is built using:  
+- **Flutter & Dart** for cross-platform mobile development  
+- **Teachable Machine** for image classification of kitchen utensils
+- - User-friendly interfaces with **Home, History, Scanner, Collection, Analytics, and Recipe screens**  
+
+The app is designed to be **educational, interactive, and practical**, making it easier for anyone to **identify utensils, save recipes, and explore related cooking ideas**.
+
+---
+
+## 🙏 Thank You
+Thank you for taking the time to explore my **Kitchen Utensils App**!  
+
+This app was created to **help learners, cooking enthusiasts, and beginners** identify kitchen tools quickly and accurately while exploring new recipes. I hope it inspires you to **cook, learn, and organize your kitchen efficiently**.  
+
+Your feedback, contributions, and ideas are always welcome to make this app even better.  
+
+Feel free to **connect with me** or check out my projects on GitHub, LinkedIn, or email!
+
+**App Demo:**  
+![Kitchen Utensils Demo](your-demo.gif)
+
+---
 # 🌐 Let's Connect
 
 <a href="mailto:your-real-email@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/></a>
