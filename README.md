@@ -158,7 +158,9 @@ Your feedback, contributions, and ideas are always welcome to make this app even
 Feel free to **connect with me** or check out my projects on GitHub, LinkedIn, or email!
 
 **App Demo:**  
-![Kitchen Utensils Demo](your-demo.gif)
+
+![Kitchen Utensils Demo](A_GIF_titled_"App_Demo:"_in_bold_yellow_text_at_th.png)  
+![Kitchen Utensils Demo 2](https://media.tenor.com/bwqeN.gif)
 
 ---
 # 🌐 Let's Connect
